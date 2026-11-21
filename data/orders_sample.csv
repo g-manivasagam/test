@@ -1,0 +1,6 @@
+order_id,customer_id,product,quantity,unit_price,order_date,status
+1001,C001,laptop,1,850.00,2026-11-01,completed
+1002,C002,mouse,2,15.50,2026-11-01,completed
+1003,C001,keyboard,1,45.00,2026-11-02,shipped
+1004,C003,monitor,2,210.00,2026-11-03,cancelled
+1005,C002,laptop,1,850.00,2026-11-03,completed
