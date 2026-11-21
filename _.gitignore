@@ -1,0 +1,19 @@
+# Data files (may contain personal or sensitive data)
+*.csv
+*.json
+*.parquet
+# ...except the small fake sample used for testing
+!data/orders_sample.csv
+
+# Secrets and local config
+.env
+*.token
+.databricks/
+
+# Python / editor noise
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+.vscode/
+.idea/
+.DS_Store
